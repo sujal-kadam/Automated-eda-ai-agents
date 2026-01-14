@@ -23,7 +23,7 @@ An AI-driven system that intelligently analyzes any CSV or Excel dataset using m
 ## 🛠 Tech Stack
 - Python
 - Streamlit
-- Pandas, NumPy
+- Pandas
 - LangChain
 - OpenAI API
 
